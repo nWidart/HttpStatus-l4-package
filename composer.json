@@ -1,6 +1,6 @@
 {
     "name": "nwidart/httpstatus",
-    "description": "",
+    "description": "HttpStatus is a small package that adds pretty error pages.",
     "authors": [
         {
             "name": "Nicolas Widart",

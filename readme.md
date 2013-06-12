@@ -1,5 +1,4 @@
 # HttpStatus
-===
 
 HttpStatus is a small package that adds pretty error pages.
 
