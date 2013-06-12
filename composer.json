@@ -1,0 +1,20 @@
+{
+    "name": "nwidart/httpstatus",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nwidart\\Httpstatus": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
