@@ -27,6 +27,8 @@ Update composer:
 $ php composer.phar update
 ```
 
+Add `'Nwidart\Httpstatus\HttpstatusServiceProvider'` to your `app/config/app.php` file in the `providers` array.
+
 
 (Optional) Publish package config:
 
