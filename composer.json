@@ -1,6 +1,7 @@
 {
     "name": "nwidart/httpstatus",
     "description": "HttpStatus is a small package that adds pretty error pages.",
+    "keywords": ["httpstatus", "laravel", "error pages", "404"],
     "authors": [
         {
             "name": "Nicolas Widart",
