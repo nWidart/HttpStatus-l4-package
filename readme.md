@@ -1,3 +1,5 @@
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/8821cbcf-63cf-4108-bc81-9a7e9b20be26/big.png)](https://insight.sensiolabs.com/projects/8821cbcf-63cf-4108-bc81-9a7e9b20be26)
+[![Latest Stable Version](https://poser.pugx.org/nwidart/httpstatus/v/stable.svg)](https://packagist.org/packages/nwidart/httpstatus) [![Total Downloads](https://poser.pugx.org/nwidart/httpstatus/downloads.svg)](https://packagist.org/packages/nwidart/httpstatus) [![Latest Unstable Version](https://poser.pugx.org/nwidart/httpstatus/v/unstable.svg)](https://packagist.org/packages/nwidart/httpstatus) [![License](https://poser.pugx.org/nwidart/httpstatus/license.svg)](https://packagist.org/packages/nwidart/httpstatus)
 # HttpStatus
 
 HttpStatus is a small package that adds pretty error pages.
